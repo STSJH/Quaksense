@@ -8,10 +8,10 @@ The project is designed as an educational information tool. It does not provide 
 
 Names:
 
-Saanvi
-Sanvi
-Twisha
-Nancy
+Saanvi,
+Sanvi,
+Twisha,
+Nancy,
 
 Class: 10th Eta
 
