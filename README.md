@@ -11,7 +11,7 @@ Names:
 Saanvi,
 Sanvi,
 Twisha,
-Nancy,
+Nancy.
 
 Class: 10th Eta
 
